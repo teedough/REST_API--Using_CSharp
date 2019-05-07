@@ -1,0 +1,9 @@
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\PalotaInterviewCS.exe.config
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\obj\Debug\PalotaInterviewCS.csprojResolveAssemblyReference.cache
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\PalotaInterviewCS.exe
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\PalotaInterviewCS.pdb
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\obj\Debug\PalotaInterviewCS.exe
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\PalotaInterviewCS\PalotaInterviewCS\obj\Debug\PalotaInterviewCS.pdb
