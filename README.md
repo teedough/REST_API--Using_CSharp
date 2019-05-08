@@ -1,4 +1,4 @@
-# REST_API .NET Core
+# Consuming REST_API in C# .NET Core
 
 Making calls to REST API and Consuming JSON data using JSON deserializer using C#,   
 
